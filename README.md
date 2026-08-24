@@ -30,8 +30,8 @@ This mini project is a simple and responsive **sidebar navigation panel** built 
 
 Have feedback or want to collaborate? Feel free to reach out:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/apoorvdarshan/)
-- 🐦 [Twitter](https://twitter.com/apoorvdarshan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aopv/)
+- 🐦 [Twitter](https://x.com/aporvv)
 - 📧 Email: ad13dtu@gmail.com
 
 ---
